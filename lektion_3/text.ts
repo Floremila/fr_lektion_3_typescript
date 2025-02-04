@@ -1,6 +1,6 @@
 import { User } from "./types/IUser"
 
-
+// Nre ommen, did this appear at GIT?
 
 function helloWorld() {
     console.log("Hello world! :")
